@@ -1,0 +1,21 @@
+# Archivos de Python
+*.pyc
+__pycache__/
+
+# Base de datos local
+db.sqlite3
+
+# Archivos de migración
+*/migrations/*.py
+*/migrations/*.pyc
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema
+*.log
+*.DS_Store
+
+# Archivos estáticos y multimedia
+/static/
+/media/
