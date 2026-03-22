@@ -1,0 +1,19 @@
+# Configuración de PyCharm
+.idea/
+
+# Archivos compilados de Python
+*.pyc
+__pycache__/
+
+# Archivos temporales
+*.log
+
+# Bases de datos y media locales
+musicdb/
+media/
+
+# Entorno virtual
+venv/
+
+# Archivos de SQLite (si los usas)
+*.sqlite3
