@@ -9,7 +9,7 @@ __pycache__/
 *.log
 
 # Bases de datos y media locales
-musicdb/
+#musicdb/
 media/
 
 # Entorno virtual
